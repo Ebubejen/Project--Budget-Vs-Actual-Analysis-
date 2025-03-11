@@ -4,7 +4,7 @@
 
 - [Project Overview](#project-overview)
 - [Data Sources](data-sources)
-- [Recommendations](recommendations)
+- [Recommendations](Recommendations)
 
 ### Project Overview
 
