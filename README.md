@@ -26,6 +26,20 @@ Sales Data: The primary dataset used for this analysis is the  "", containing de
   1. Data loading
   2. Handling missing values
 
+   ### Exploratory Data Analysis
+
+  EDA involved exploring the sales data to answer key questions, such as:
+
+  - What is the overall sales trends?
+  -  Which products are top sellers?
+  -   What are the peak sales periods?
+
+    ### Data Analysis   
+
+- sql code used
+- select....
+
+  
   ### Results/Findings
   
   The analysis results are as follows
