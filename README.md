@@ -7,6 +7,7 @@
 - [Recommendations](#recommendations)
 
 ### Project Overview
+---
 
 This project analyzes budgeted vs. actual financial performance using Excel and Google Sheets. It helps track expenses, revenue, and variances to improve financial decision-making.
 
@@ -57,4 +58,25 @@ Sales Data: The primary dataset used for this analysis is the  "", containing de
 I had to remove all zero values from budget and revenue column because they would have affected the accuracy of my conclusions from the analysis.
 
 ### Refrences 
+
+
+### How to add an emoji 
+- type a column and the name of the emoji
+ 
+  😃
   
+  💻
+
+
+
+|Heading1|Heading2|
+|--------|--------|
+|Content|Content2|
+python|SQL|
+
+
+`column_1`
+
+**bold**
+
+*italics*
