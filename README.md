@@ -3,8 +3,8 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
-- [Data Sources](data-sources)
-- [Recommendations](Recommendations)
+- [Data Sources](#data-sources)
+- [Recommendations](#recommendations)
 
 ### Project Overview
 
